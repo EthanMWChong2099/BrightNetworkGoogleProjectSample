@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f38c65a-1c82-4c02-810c-51c7b6beda09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/commandparser.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/commandparser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/helper.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/helper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/video.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/video.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videolibrary.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videolibrary.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videoplayer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videoplayer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videoplaylist.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videoplaylist.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/src/videos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test/part1_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test/part2_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test/part3_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test/part4_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test/videolibrary_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/VideoLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/VideoLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/VideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/VideoPlaylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/VideoPlaylist.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ufA7xyKN6OKHahe6Qv4tDLWEsQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in java-youtube-challenge">
+    <configuration name="All in java-youtube-challenge (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java-youtube-challenge (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java-youtube-challenge (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java-youtube-challenge (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java-youtube-challenge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in java-youtube-challenge" />
+        <item itemvalue="JUnit.All in java-youtube-challenge (4)" />
+        <item itemvalue="JUnit.All in java-youtube-challenge (3)" />
+        <item itemvalue="JUnit.All in java-youtube-challenge (2)" />
+        <item itemvalue="JUnit.All in java-youtube-challenge (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f38c65a-1c82-4c02-810c-51c7b6beda09" name="Default Changelist" comment="" />
+      <created>1625046109413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625046109413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1059" y="-1353" width="816" height="774" key="#Intentions" timestamp="1625070669735">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="-1353" width="816" height="774" key="#Intentions/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625070669735" />
+    <state x="553" y="-891" key="#Project_Structure" timestamp="1625046326575">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="553" y="-891" key="#Project_Structure/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625046326575" />
+    <state x="926" y="-1368" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625071281484">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="926" y="-1368" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625071281484" />
+    <state x="827" y="-815" width="1347" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1625064763754">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="827" y="-815" width="1347" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625064763754" />
+    <state x="1272" y="-1305" key="#com.intellij.ide.util.MemberChooser" timestamp="1625062079744">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1272" y="-1305" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625062079744" />
+    <state x="1213" y="-625" key="FileChooserDialogImpl" timestamp="1625046188683">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1213" y="-625" key="FileChooserDialogImpl/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625046188683" />
+    <state width="1487" height="210" key="GridCell.Tab.0.bottom" timestamp="1625130299801">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1487" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625130299801" />
+    <state width="1487" height="210" key="GridCell.Tab.0.center" timestamp="1625130299800">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1487" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625130299800" />
+    <state width="1487" height="210" key="GridCell.Tab.0.left" timestamp="1625130299800">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1487" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625130299800" />
+    <state width="1487" height="210" key="GridCell.Tab.0.right" timestamp="1625130299801">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1487" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625130299801" />
+    <state x="1267" y="-1276" key="refactoring.ChangeSignatureDialog" timestamp="1625071216834">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1267" y="-1276" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625071216834" />
+    <state x="1125" y="-681" key="run.anything.popup" timestamp="1625050551890">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1125" y="-681" key="run.anything.popup/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625050551890" />
+    <state x="1135" y="-1262" width="672" height="678" key="search.everywhere.popup" timestamp="1625070340264">
+      <screen x="-319" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1135" y="-1262" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-319.-1440.2560.1400@-319.-1440.2560.1400" timestamp="1625070340264" />
+  </component>
+</project>
